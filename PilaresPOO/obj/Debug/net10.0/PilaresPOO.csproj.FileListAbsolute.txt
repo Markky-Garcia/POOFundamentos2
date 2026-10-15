@@ -1,0 +1,14 @@
+C:\Users\31356549829\source\repos\PilaresPOO\PilaresPOO\bin\Debug\net10.0\PilaresPOO.exe
+C:\Users\31356549829\source\repos\PilaresPOO\PilaresPOO\bin\Debug\net10.0\PilaresPOO.deps.json
+C:\Users\31356549829\source\repos\PilaresPOO\PilaresPOO\bin\Debug\net10.0\PilaresPOO.runtimeconfig.json
+C:\Users\31356549829\source\repos\PilaresPOO\PilaresPOO\bin\Debug\net10.0\PilaresPOO.dll
+C:\Users\31356549829\source\repos\PilaresPOO\PilaresPOO\bin\Debug\net10.0\PilaresPOO.pdb
+C:\Users\31356549829\source\repos\PilaresPOO\PilaresPOO\obj\Debug\net10.0\PilaresPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\31356549829\source\repos\PilaresPOO\PilaresPOO\obj\Debug\net10.0\PilaresPOO.AssemblyInfoInputs.cache
+C:\Users\31356549829\source\repos\PilaresPOO\PilaresPOO\obj\Debug\net10.0\PilaresPOO.AssemblyInfo.cs
+C:\Users\31356549829\source\repos\PilaresPOO\PilaresPOO\obj\Debug\net10.0\PilaresPOO.csproj.CoreCompileInputs.cache
+C:\Users\31356549829\source\repos\PilaresPOO\PilaresPOO\obj\Debug\net10.0\PilaresPOO.dll
+C:\Users\31356549829\source\repos\PilaresPOO\PilaresPOO\obj\Debug\net10.0\refint\PilaresPOO.dll
+C:\Users\31356549829\source\repos\PilaresPOO\PilaresPOO\obj\Debug\net10.0\PilaresPOO.pdb
+C:\Users\31356549829\source\repos\PilaresPOO\PilaresPOO\obj\Debug\net10.0\PilaresPOO.genruntimeconfig.cache
+C:\Users\31356549829\source\repos\PilaresPOO\PilaresPOO\obj\Debug\net10.0\ref\PilaresPOO.dll

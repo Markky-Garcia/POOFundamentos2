@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\31356549829\\source\\repos\\POO Fundamentos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6AAC255-4196-438B-BE6E-653C6F3E7EEC}|POO Fundamentos\\POO Fundamentos.csproj|c:\\users\\31356549829\\source\\repos\\poo fundamentos\\poo fundamentos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6AAC255-4196-438B-BE6E-653C6F3E7EEC}|POO Fundamentos\\POO Fundamentos.csproj|solutionrelative:poo fundamentos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6AAC255-4196-438B-BE6E-653C6F3E7EEC}|POO Fundamentos\\POO Fundamentos.csproj|c:\\users\\31356549829\\source\\repos\\poo fundamentos\\poo fundamentos\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6AAC255-4196-438B-BE6E-653C6F3E7EEC}|POO Fundamentos\\POO Fundamentos.csproj|solutionrelative:poo fundamentos\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Carro.cs",
+              "DocumentMoniker": "C:\\Users\\31356549829\\source\\repos\\POO Fundamentos\\POO Fundamentos\\Carro.cs",
+              "RelativeDocumentMoniker": "POO Fundamentos\\Carro.cs",
+              "ToolTip": "C:\\Users\\31356549829\\source\\repos\\POO Fundamentos\\POO Fundamentos\\Carro.cs",
+              "RelativeToolTip": "POO Fundamentos\\Carro.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T23:04:34.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\31356549829\\source\\repos\\POO Fundamentos\\POO Fundamentos\\Program.cs",
+              "RelativeDocumentMoniker": "POO Fundamentos\\Program.cs",
+              "ToolTip": "C:\\Users\\31356549829\\source\\repos\\POO Fundamentos\\POO Fundamentos\\Program.cs",
+              "RelativeToolTip": "POO Fundamentos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T22:58:57.784Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
